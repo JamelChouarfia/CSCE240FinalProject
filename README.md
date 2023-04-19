@@ -45,3 +45,5 @@ Contains the text files generated for each disease from DiseaseWebScraper and re
 Contains a text file of keywords to use for spell correcting by SpellingCorrector
 ### lib
 Contains external libraries used in project.
+### images
+Contains images used by the project.
