@@ -2,13 +2,17 @@
 
 ## Disease Chatbot
 
-This chatbot allows the user to chat with an AI to learn more about various diseases.\
-The currently supported diseases are\
-\
-Avian Flu\
+This chatbot allows the user to chat with an AI to learn more about various diseases.
+The currently supported diseases are:
+HIV
+Scabies
+Rabies
+Rubella
+Avian Flu
+Malaria
 Measles
-
-Chatbot with a simple GUI that can answer questions related to a list of supported diseases based on infomation gathered from CDC and WebMD pages. Current supported diseases: HIV, Scabies, Rabies, Rubella, Avian Flu, Malaria, Measles, Polio, and Mumps.
+Polio
+Mumps
 
 <img src="./DiseaseChatbotProject/images/ChatSessionImage.png" width="400">
 
