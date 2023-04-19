@@ -21,7 +21,6 @@ Download the DiseaseChatbot.jar file. Run this file by simply opening the .jar f
 
 If the application doesn't open directly, the .jar file can also be run from the terminal. Navigate to the directory where the DiseaseChatbot.jar file is stored, and run `java -jar DiseaseChatbot.jar`. 
 
-This application requires at least Java 14.
 ## DiseaseChatbotProject Folders
 ### src
 ##### DiseaseWebScraper.java
