@@ -1,4 +1,4 @@
-# CSCE240 Final Project
+# CSCE240H Final Project
 
 ## Disease Chatbot
 
