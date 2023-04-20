@@ -31,6 +31,8 @@ Processes information for a provided disease and attempts to identify and answer
 Uses DiseaseWebScraper and DiseaseDataProcessor to take user input regarding a disease and generates a response. Also accounts for some general "small talk" questions. (Project 3)
 ##### ChatBot.java
 Interface to represent a chatbot. The bot must provide a method to able to take a String user entry and provide a String response. (Project 3)
+#### Presentation Slide Deck
+https://docs.google.com/presentation/d/1fFr2-i-6zMFYh8_DxckJRt1J-nNd3CwKIOQkzDwKUn0/edit#slide=id.p 
 ##### ChatBotGui.java
 Takes an implementation of the ChatBot interface and creates a simple, customizable GUI for the user to enter input and see the ChatBot responses. (Project 3)
 ##### SpellingCorrector.java
