@@ -47,3 +47,6 @@ Contains a text file of keywords to use for spell correcting by SpellingCorrecto
 Contains external libraries used in project.
 ### images
 Contains images used by the project.
+
+## Presentation Video
+https://www.youtube.com/watch?v=RkxhZeKR0OI
