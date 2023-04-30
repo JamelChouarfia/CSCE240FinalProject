@@ -47,5 +47,3 @@ Contains a text file of keywords to use for spell correcting by SpellingCorrecto
 Contains external libraries used in project.
 ### images
 Contains images used by the project.
-### presentation slide deck
-https://docs.google.com/presentation/d/1fFr2-i-6zMFYh8_DxckJRt1J-nNd3CwKIOQkzDwKUn0/edit#slide=id.p 
