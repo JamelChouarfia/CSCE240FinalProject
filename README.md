@@ -21,6 +21,9 @@ Download the DiseaseChatbot.jar file. Run this file by simply opening the .jar f
 
 If the application doesn't open directly, the .jar file can also be run from the terminal. Navigate to the directory where the DiseaseChatbot.jar file is stored, and run `java -jar DiseaseChatbot.jar`. 
 
+## Presentation Video
+https://www.youtube.com/watch?v=RkxhZeKR0OI
+
 ## DiseaseChatbotProject Folders
 ### src
 ##### DiseaseWebScraper.java
@@ -47,6 +50,3 @@ Contains a text file of keywords to use for spell correcting by SpellingCorrecto
 Contains external libraries used in project.
 ### images
 Contains images used by the project.
-
-## Presentation Video
-https://www.youtube.com/watch?v=RkxhZeKR0OI
