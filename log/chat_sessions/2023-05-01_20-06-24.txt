@@ -1,0 +1,20 @@
+You: Hello
+Bot: Hey!
+You: what do you know about HIV?
+Bot: Sorry, I wasn't able to find any information to answer your question. I did find information about HIV, try asking me about one of the following: what it is, symptoms, risk factors and causes, prevention. (Or try asking me about another disease!)
+You: What is HIV
+Bot: HIV (Human Immunodeficiency Virus) is the virus that causes AIDS (Acquired Immune Deficiency Syndrome). The virus weakens a person's ability to fight infections and cancer. People with HIV are said to have AIDS when the virus makes them very sick and they develop certain infections or cancers.
+Because HIV weakens the immune system, people with AIDS are more likely to suffer health problems, including those of the skin. In fact, certain skin diseases may be the first sign that someone is infected with HIV.
+While many people with HIV/AIDS may develop the following conditions, especially Kaposi's sarcoma (sometimes called KS), it is important to note that a person may have any one of these conditions but not have HIV/AIDS.
+(Source: https://www.webmd.com/skin-problems-and-treatments/aids-related-skin-conditions)
+You: What is rabies
+Bot: Rabies is a deadly disease caused by a virus. You can get rabies if you are bitten or scratched by an animal with rabies.
+In the United States, rabies is mostly found in wild animals like bats, raccoons, skunks, and foxes. However, in many other countries around the world, bites from dogs (including puppies) are the main source of rabies infections in people. Most people who die of rabies were bitten by a dog with rabies.
+(Source: https://wwwnc.cdc.gov/travel/diseases/rabies)
+You: What is malaria>
+Bot: Malaria is a serious and sometimes life-threatening tropical disease that is caused by a parasite and spreads through mosquitoes. It kills more than 445,000 people a year, many of them children in Africa.
+Although malaria is almost wiped out in the United States, you can still get the disease when you travel to other parts of the world. The United States has about 1,700 malaria cases every year from immigrants and travelers returning from countries where malaria is more common.
+These countries have climates that are hot enough for the malaria parasites and the mosquitoes that carry them to thrive. Before you travel, check the CDC’s website to see whether your destination is a hotspot for malaria. You may have to take pills before, during, and after your trip to lower your chances of getting it.
+(Source: https://www.webmd.com/a-to-z-guides/malaria-symptoms)
+You: bye
+Bot: Goodbye!
